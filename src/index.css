@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Karla:wght@400;500;700&family=Montserrat:wght@300&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Karla', sans-serif;
+  background-color: #F5F7FB;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 800px) {
+  body{
+    margin: 20px;
+    padding: 20px;
+  }
+  img {
+    max-width: 15%;
+  }
+}
+
+
+ 
+
