@@ -46,9 +46,9 @@
 .bottom-tags {
   display: flex;
   justify-content: center;
-  flex-wrap: nowrap;
   align-items: center;
   white-space: nowrap;
+  width: 700px;
 }
 
 .check-answers-button {
